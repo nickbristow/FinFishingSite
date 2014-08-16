@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Gallery
+permalink: /gallery/
 ---
 
 This is where you would write about the site and junk. Have your general info here. Blah. My team is cool, we like to fish and junk.
