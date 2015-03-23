@@ -1,6 +1,6 @@
 # Site settings
 title: Fin Fishing Site
-email: your-email@domain.com
+email: FinAddictsFishingTeam@gmail.com 
 description: > # this means to ignore newlines until "baseurl:"
   This is the site of the Fin Fishing team.
 baseurl: "/FinFishingSite" # the subpath of your site, e.g. /blog/
